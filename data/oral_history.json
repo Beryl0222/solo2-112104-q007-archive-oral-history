@@ -3,7 +3,15 @@
     "id": "oral-1",
     "interview": "I-7",
     "version": 1,
-    "text": "我舅舅阿成带我去旧桥边，那时河还没改道。"
+    "text": "我舅舅阿成带我去旧桥边，那时河还没改道。",
+    "status": "reviewed",
+    "review_comments": [
+      {
+        "author": "档案复核",
+        "text": "称谓与所指人物需复听确认，先保留原转写。",
+        "created": "2026-11-20"
+      }
+    ]
   },
   {
     "id": "oral-2",
@@ -21,6 +29,14 @@
     "id": "oral-4",
     "interview": "I-8",
     "version": 1,
-    "text": "展陈稿引用 I-8 作为亲历证言，尚未完成档案复核。"
+    "text": "展陈稿引用 I-8 作为亲历证言，尚未完成档案复核。",
+    "status": "pending_review",
+    "review_comments": [
+      {
+        "author": "展陈编辑",
+        "text": "暂按亲历证言排版，等待档案复核；如证据类型不符需撤下。",
+        "created": "2026-11-21"
+      }
+    ]
   }
 ]
